@@ -2,9 +2,10 @@
 
 ## I'm a FrontEnd Developer
 ```
-> I like to write code
-> I am constantly learning new things
-> Also i enjoy running every day
+I like to write code
+I am constantly learning new things
+Sometimes I like to watch films on English language.
+Also I enjoy running every day
 ``` 
 ### Connect with me:
 
