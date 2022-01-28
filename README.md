@@ -3,7 +3,9 @@
 ## I'm a FrontEnd Developer
 
 > I like to write code
+<br/>
 > I am constantly learning new things
+<br/>
 > Also i enjoy running every day
 
 ### Connect with me:
@@ -37,4 +39,4 @@
 [telegram]: https://tlgg.ru/olegmorshel
 [vk]: https://vk.com/olezha_n_g_u
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegMorshel&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegMorshel&layout=compact)
