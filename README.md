@@ -1,13 +1,11 @@
 ### Hi there 👋, I'm OLeg
 
 ## I'm a FrontEnd Developer
-
+```
 > I like to write code
-<br/>
 > I am constantly learning new things
-<br/>
 > Also i enjoy running every day
-
+``` 
 ### Connect with me:
 
 [<img align="left" alt="https://mail.ru/" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQHlsSs4OQ8ixpvZoGsv6FUk5bNW1CfpSotH2wqzgfJTS_CYqFdtD1CsSJ2P22bGBc_s&usqp=CAU" />][whatapp]
