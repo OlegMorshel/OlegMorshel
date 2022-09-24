@@ -7,13 +7,6 @@ I am constantly learning new things
 Sometimes I like to watch films on English language.
 Also I enjoy running every day
 ``` 
-### Connect with me:
-
-[<img align="left" alt="https://mail.ru/" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQHlsSs4OQ8ixpvZoGsv6FUk5bNW1CfpSotH2wqzgfJTS_CYqFdtD1CsSJ2P22bGBc_s&usqp=CAU" />][whatapp]
-[<img align="left" alt="OlegMorshel" width="22px" src="https://w7.pngwing.com/pngs/309/9/png-transparent-telegram-computer-icons-messaging-apps-others-miscellaneous-angle-triangle.png" />][telegram]
-[<img align="left" alt="OlegMorshel | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-<br />
 
 ### Languages and Tools:
 
