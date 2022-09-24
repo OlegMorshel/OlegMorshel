@@ -24,18 +24,3 @@ Also I enjoy running every day
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<br />
-<br />
-
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
-
-[whatapp]: https://api.whatsapp.com/send?phone=79040741751
-[telegram]: https://tlgg.ru/olegmorshel
-[vk]: https://vk.com/olezha_n_g_u
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegMorshel&layout=compact)
